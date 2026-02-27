@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Girish+Garg;Backend+Developer+%7C+DSA+Enthusiast;Java+%7C+Spring+Boot+%7C+Docker" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=500&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Girish+Garg;Backend+Developer+%7C+DSA+Enthusiast;Java+%7C+Spring+Boot+%7C+Docker"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
