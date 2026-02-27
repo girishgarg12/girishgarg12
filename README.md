@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  🎓 B.Tech CSE @ Lovely Professional University <br/>
+  🎓 Pre-final year B.Tech CSE student @ Lovely Professional University <br/>
   💻 Backend-focused developer | Competitive Programming enthusiast
 </p>
 
 <p align="center">
   I enjoy solving challenging DSA problems and building scalable backend systems.<br/>
-  Currently focused on <b>Java, Spring Boot, REST APIs, and system fundamentals</b>.
+  Currently focused on <b>Java, MERN Stack, Spring Boot, REST APIs, and system fundamentals</b>.
 </p>
 
 ---
@@ -48,10 +48,10 @@
 - Detects exposed secrets and insecure configurations using static analysis
 - Recursive filesystem scanning with regex-based detection
 - JSON/YAML validation with multi-file analysis
-- Fully Dockerized for consistent deployment
+- Dockerized for consistent deployment
 
 **Tech:** Java, Spring Boot, MongoDB, Maven, Docker, React  
-🔗 GitHub: https://github.com/girishgarg12
+🔗 GitHub: [https://github.com/girishgarg12](https://github.com/girishgarg12/Config-and-Secret-Scanner)
 
 ---
 
@@ -62,7 +62,8 @@
 - Automated PDF certificate generation
 
 **Tech:** Node.js, Express.js, MongoDB, JWT, React  
-🔗 GitHub: https://github.com/girishgarg12
+🔗 GitHub: https://github.com/girishgarg12/SkillCerts
+🌐 Live Demo: https://skillcerts.vercel.app
 
 ---
 
@@ -72,7 +73,8 @@
 - Session-based authentication with auto logout
 
 **Tech:** PHP, MySQL, JavaScript, Tailwind CSS  
-🔗 GitHub: https://github.com/girishgarg12
+🔗 GitHub: https://github.com/girishgarg12/NexaMart
+🌐 Live Demo: https://nexamartstore.wuaze.com
 
 ---
 
@@ -84,7 +86,7 @@
 
 - 🟢 **400+ problems solved** on LeetCode  
 - 🟡 **200 Days Badge (2025)**  
-- 🔴 **CodeChef Rating:** 1425  
+- 🔴 **CodeChef Rating:** 1468  
 
 📌 Coding Profile → https://codolio.com/profile/GirishGarg
 
@@ -102,12 +104,6 @@
 
 ---
 
-<h2 align="center">🏆 Achievements</h2>
-
-- 📌 Filed a **patent application** for an AI-driven seed sowing & growth optimization robot  
-- 💪 Strong consistency in DSA and competitive programming  
-
----
 
 <h2 align="center">📫 Connect with Me</h2>
 
